@@ -1,0 +1,9 @@
+C:\Users\1\Source\Repos\Integration6\CommonNet3\bin\Debug\CommonNet3.dll
+C:\Users\1\Source\Repos\Integration6\CommonNet3\bin\Debug\CommonNet3.pdb
+C:\Users\1\Source\Repos\Integration6\CommonNet3\obj\Debug\CommonNet3.dll
+C:\Users\1\Source\Repos\Integration6\CommonNet3\obj\Debug\CommonNet3.pdb
+C:\Users\1\source\repos\MercutovAA\CommonNet3\bin\Debug\CommonNet3.dll
+C:\Users\1\source\repos\MercutovAA\CommonNet3\bin\Debug\CommonNet3.pdb
+C:\Users\1\source\repos\MercutovAA\CommonNet3\obj\Debug\CommonNet3.csprojAssemblyReference.cache
+C:\Users\1\source\repos\MercutovAA\CommonNet3\obj\Debug\CommonNet3.dll
+C:\Users\1\source\repos\MercutovAA\CommonNet3\obj\Debug\CommonNet3.pdb
